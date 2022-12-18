@@ -1,0 +1,35 @@
+.App{
+  width: 100vw;
+  height: 50vh;
+}
+.main{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.bg{
+  background-color: aqua;
+}
+.bg1{
+  background-color:coral;
+}
+
+.bg2{
+  background-color: #ff0;
+}
+.part2{
+ /* height: 100vh; */
+}
+.part3{
+  height: 250px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #000;
+}
+.box3{
+  width: 200px;
+  height: 200px;
+}
