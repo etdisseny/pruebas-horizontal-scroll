@@ -19,7 +19,9 @@
   background-color: #ff0;
 }
 .part2{
- /* height: 100vh; */
+ height: 100vh;
+ background-color: aqua;
+
 }
 .part3{
   height: 250px;
@@ -32,4 +34,18 @@
 .box3{
   width: 200px;
   height: 200px;
+}
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 10px;
+  background:red;
+  transform-origin: 0%;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background: #ff0;
 }
